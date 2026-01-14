@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://via.placeholder.com/150/2196F3/FFFFFF?text=QR+Scanner" alt="App Logo" width="120" height="120">
+<img src="https://play-lh.googleusercontent.com/ycZ0Qn7HINKGr5QRkJr2RSPBqZQR9PRoPwvOMhdcrdaGJxC76Y3_9_ZrETNjf6blpR75wrHYGHDk4qV_Y6i9=w240-h480-rw" alt="App Logo" width="120" height="120">
 
 # QR Code Scanner & Creator
 
