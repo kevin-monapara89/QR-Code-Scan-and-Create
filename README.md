@@ -70,9 +70,3 @@ Get the app now and start scanning!
 We love hearing from our users! If you have any suggestions, bug reports, or feature requests:
 
 * **Email:** kevinmonapara89@gmail.com
-
----
-
-<div align="center">
-  <sub>Built with ❤️ by [Your Developer Name/Team]</sub>
-</div>
